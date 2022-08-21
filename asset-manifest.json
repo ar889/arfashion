@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/arfashion/static/css/main.9bda6196.css",
+    "main.js": "/arfashion/static/js/main.d1acab00.js",
+    "static/media/loginbg.jpg": "/arfashion/static/media/loginbg.64df6f405733aee1fe05.jpg",
+    "index.html": "/arfashion/index.html",
+    "main.9bda6196.css.map": "/arfashion/static/css/main.9bda6196.css.map",
+    "main.d1acab00.js.map": "/arfashion/static/js/main.d1acab00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bda6196.css",
+    "static/js/main.d1acab00.js"
+  ]
+}
